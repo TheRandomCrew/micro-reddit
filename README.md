@@ -22,28 +22,29 @@
     <img src="doc/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Getting Your Feet Wet</h3>
+  <h3 align="center">Project 2: Micro-Reddit</h3>
 
   <p align="center">
-    A toy app: getting a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically. 
+    Let’s build Reddit. Well, maybe a very junior version of it called micro-reddit. In this project, we built the data structures necessary to support link submissions and commenting. We won’t build a front end for it because we don’t need to… you can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views. 
     <br />
-    <a href="https://github.com/raheebwa/toy_app/blob/master/README.md"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/Israel-Laguan/micro-reddit/blob/master/README.md"><strong>Explore the docs 📚</strong></a>
     <br />
     <br />
-    <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet">Assigment</a>
-    �
-    <a href="https://github.com/raheebwa/toy_app/issues">Report Bug</a>
-    �
-    <a href="https://github.com/raheebwa/toy_app/issues">Request Feature</a>
+    🖊️
+    <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails">Assigment</a>
+    🐛
+    <a href="https://github.com/Israel-Laguan/micro-reddit/issues">Report Bug</a>
+    🙏
+    <a href="https://github.com/Israel-Laguan/micro-reddit/issues">Request Feature</a>
   </p>
 </p>
 
-# Getting Your Feet Wet
-Implement a version of Ruby’s enumerable methods.
+# Micro-Reddit
+Start working with the database and models.
 
-[live version](https://toy-app-arir.herokuapp.com)
+[live version](https://micro-reddit-arir.herokuapp.com/)
 
-![live](doc/toy-app.png)
+![console](doc/console.png)
 # Validations
 
 Rubocop: 
@@ -83,13 +84,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/raheebwa/toy_app.svg?style=flat-square
-[contributors-url]: https://github.com/raheebwa/toy_app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/raheebwa/toy_app
-[forks-url]: https://github.com/raheebwa/toy_app/network/members
-[stars-shield]: https://img.shields.io/github/stars/raheebwa/toy_app
-[stars-url]: https://github.com/raheebwa/toy_app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/raheebwa/toy_app
-[issues-url]: https://github.com/raheebwa/toy_app/issues
-[license-shield]: https://img.shields.io/github/license/raheebwa/toy_app
-[license-url]: https://github.com/raheebwa/toy_app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/micro-reddit.svg?style=flat-square
+[contributors-url]: https://github.com/Israel-Laguan/micro-reddit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/micro-reddit
+[forks-url]: https://github.com/Israel-Laguan/micro-reddit/network/members
+[stars-shield]: https://img.shields.io/github/stars/Israel-Laguan/micro-reddit
+[stars-url]: https://github.com/Israel-Laguan/micro-reddit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Israel-Laguan/micro-reddit
+[issues-url]: https://github.com/Israel-Laguan/micro-reddit/issues
+[license-shield]: https://img.shields.io/github/license/Israel-Laguan/micro-reddit
+[license-url]: https://github.com/Israel-Laguan/micro-reddit/blob/master/LICENSE.txt
