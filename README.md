@@ -27,9 +27,10 @@
   <p align="center">
     Let’s build Reddit. Well, maybe a very junior version of it called micro-reddit. In this project, we built the data structures necessary to support link submissions and commenting. We won’t build a front end for it because we don’t need to… you can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views. 
     <br />
-    <a href="https://github.com/Israel-Laguan/micro-reddit/blob/master/README.md"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/Israel-Laguan/micro-reddit/blob/master/README.md"><strong>Explore the docs 📚</strong></a>
     <br />
     <br />
+    🖊️
     <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails">Assigment</a>
     🐛
     <a href="https://github.com/Israel-Laguan/micro-reddit/issues">Report Bug</a>
@@ -39,11 +40,11 @@
 </p>
 
 # Micro-Reddit
-Implement a version of Ruby’s enumerable methods.
+Start working with the database and models.
 
 [live version](https://micro-reddit-arir.herokuapp.com/)
 
-![live](doc/console.png)
+![console](doc/console.png)
 # Validations
 
 Rubocop: 
